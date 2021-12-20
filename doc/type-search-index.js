@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AmericanBlackWhite"},{"p":"<Unnamed>","l":"AmericanFlag"},{"p":"<Unnamed>","l":"BaseAmerican"},{"p":"<Unnamed>","l":"BetsyFlag"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"Flag"},{"p":"<Unnamed>","l":"ModernAmerican"}];updateSearchResults();
